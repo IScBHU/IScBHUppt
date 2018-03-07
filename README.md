@@ -46,7 +46,7 @@ Use the source file IScBHUpt.tex and directory "Logo" where BHU University logo 
 >     $ pdflatex IScBHUpt.tex
 
 ** Compiling and Output **
-Output file will be created in the same directory of *.tex file as ISc_BHU_ppt.pdf
-=======
-Output file will be created in the same directory of *.tex file as IS_BHU_ppt.pdf
+Output file will be created in the same directory of *.tex file as IScBHUpt.pdf
+------
+Output file will be created in the same directory of *.tex file as ISBHUpt.pdf
 **
