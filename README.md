@@ -36,16 +36,17 @@ The Institute of Science - Banaras Hindu University, Varanasi unofficial power p
 
 >**LICENSE:** THIS IS UNOFFICIAL TEMPLATE OF PRESNTATION FOR CONFERNCE OR PROJECT PHD THESIS DEFENSE RELEASED UNDER CREATIVE COMMON LICENSE. THE END USER IS RESPONSIBLE FOR FOLLOWING THE GUIDELINES OF UNIVERSITY DIGITAL IDENTITY.
 
+>- *MIT*  and *CREATIVE COMMON LICENSE* applicable.
 ----------------------------------------------------------------------------------------------
 
 >**How to Use:**
-Use the source file IS_BHU_PPT.tex and directory "Logo" where BHU University logo will be present in jpg or png format. Windows (LaTeX) OR UNIX/Linux (Texlive)
+Use the source file IScBHUpt.tex and directory "Logo" where BHU University logo will be present in jpg or png format. Windows (LaTeX) OR UNIX/Linux (Texlive)
 
->     $ xelatex  IS_BHU_PPT.tex
->     $ pdflatex IS_BHU_PPT.tex
+>     $ xelatex  IScBHUpt.tex
+>     $ pdflatex IScBHUpt.tex
 
-<<<<<<< HEAD
-Output file will be created in the same directory of *.tex file as IS_BHU_PPT.pdf
+** Compiling and Output **
+Output file will be created in the same directory of *.tex file as ISc_BHU_ppt.pdf
 =======
-Output file will be created in the same directory of *.tex file as IS_BHU_PPT.pdf
->>>>>>> a3a11738a7c1770fd6df046fec3122e829a3af6d
+Output file will be created in the same directory of *.tex file as IS_BHU_ppt.pdf
+**
